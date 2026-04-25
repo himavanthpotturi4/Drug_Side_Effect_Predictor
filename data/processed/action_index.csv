@@ -1,0 +1,6 @@
+action_class,action_idx
+human_cell,0
+virus,1
+bacteria,2
+fungus,3
+other,4

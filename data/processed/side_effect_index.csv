@@ -1,0 +1,401 @@
+side_effect_name,side_effect_idx
+abdominal cramps,0
+abdominal discomfort,1
+abdominal distension,2
+abdominal pain,3
+abdominal pain upper,4
+abnormal dreams,5
+abnormal vision,6
+abscess,7
+accidental injury,8
+acne,9
+acute coronary syndrome,10
+affect lability,11
+ageusia,12
+aggression,13
+agitation,14
+agranulocytosis,15
+alanine aminotransferase increased,16
+albuminuria,17
+alopecia,18
+amblyopia,19
+amenorrhoea,20
+amnesia,21
+anaemia,22
+anaphylactic shock,23
+anaphylactoid reaction,24
+angina pectoris,25
+angioedema,26
+angiopathy,27
+anorexia,28
+anxiety,29
+aplastic anaemia,30
+apnoea,31
+arrhythmia,32
+arthralgia,33
+arthritis,34
+arthropathy,35
+aspartate aminotransferase increased,36
+asthenia,37
+asthma,38
+ataxia,39
+atrial fibrillation,40
+atrioventricular block,41
+back pain,42
+bladder pain,43
+blister,44
+blood alkaline phosphatase increased,45
+blood and lymphatic system disorders,46
+blood bilirubin increased,47
+blood creatinine increased,48
+blood disorder,49
+blood pressure increased,50
+blood urea increased,51
+blood uric acid increased,52
+body temperature increased,53
+bone disorder,54
+bone pain,55
+bradycardia,56
+breast disorder,57
+breast pain,58
+bronchitis,59
+bronchospasm,60
+burning sensation,61
+candida infection,62
+cardiac arrest,63
+cardiac disorder,64
+cardiac failure,65
+cardiac failure congestive,66
+cardiovascular disorder,67
+cataract,68
+cellulitis,69
+cerebrovascular accident,70
+chest discomfort,71
+chest pain,72
+chills,73
+cholestasis,74
+coagulopathy,75
+colitis,76
+coma,77
+confusional state,78
+conjunctivitis,79
+connective tissue disorder,80
+constipation,81
+contusion,82
+convulsion,83
+coordination abnormal,84
+cough,85
+cough increased,86
+cramp muscle,87
+cramps of lower extremities,88
+creatinine increased,89
+cyanosis,90
+cystitis,91
+cystitis noninfective,92
+deafness,93
+decreased appetite,94
+deep vein thrombosis,95
+dehydration,96
+delirium,97
+delusion,98
+depressed level of consciousness,99
+depression,100
+dermatitis,101
+dermatitis atopic,102
+dermatitis bullous,103
+dermatitis contact,104
+dermatitis exfoliative,105
+diabetes mellitus,106
+diarrhoea,107
+diplopia,108
+discomfort,109
+disorientation,110
+disturbance in attention,111
+disturbance in sexual arousal,112
+dizziness,113
+drowsiness,114
+drug interaction,115
+dry eye,116
+dry mouth,117
+dry skin,118
+dysarthria,119
+dysgeusia,120
+dyskinesia,121
+dysmenorrhoea,122
+dyspepsia,123
+dysphagia,124
+dysphonia,125
+dyspnoea,126
+dysuria,127
+ear and labyrinth disorders,128
+ear pain,129
+ecchymosis,130
+eczema,131
+endocrine disorder,132
+eosinophilia,133
+epistaxis,134
+erectile dysfunction,135
+eructation,136
+erythema,137
+erythema multiforme,138
+euphoric mood,139
+extrapyramidal disorder,140
+extrasystoles,141
+extravasation,142
+eye disorder,143
+eye irritation,144
+eye pain,145
+face oedema,146
+fatigue,147
+feeling abnormal,148
+feeling hot,149
+flatulence,150
+fluid retention,151
+flushing,152
+fungal infection,153
+gait disturbance,154
+gamma-glutamyltransferase increased,155
+gastritis,156
+gastroenteritis,157
+gastrointestinal disorder,158
+gastrointestinal haemorrhage,159
+gastrointestinal pain,160
+gastrooesophageal reflux disease,161
+gingivitis,162
+glaucoma,163
+glossitis,164
+glycosuria,165
+gout,166
+gynaecomastia,167
+haematemesis,168
+haematoma,169
+haematuria,170
+haemoglobin,171
+haemoglobin decreased,172
+haemolytic anaemia,173
+haemoptysis,174
+haemorrhage,175
+hallucination,176
+headache,177
+hearing impaired,178
+hepatic enzyme increased,179
+hepatic failure,180
+hepatic function abnormal,181
+hepatitis,182
+hepatobiliary disease,183
+hepatocellular injury,184
+hepatotoxicity,185
+herpes simplex,186
+herpes zoster,187
+hiccups,188
+hot flush,189
+hyperaesthesia,190
+hyperbilirubinaemia,191
+hypercalcaemia,192
+hypercholesterolaemia,193
+hyperglycaemia,194
+hyperhidrosis,195
+hyperkalaemia,196
+hyperkinesia,197
+hypersensitivity,198
+hypertension,199
+hypertonia,200
+hyperuricaemia,201
+hypoaesthesia,202
+hypocalcaemia,203
+hypoglycaemia,204
+hypokalaemia,205
+hyponatraemia,206
+hypotension,207
+ileus,208
+ill-defined disorder,209
+immune system disorder,210
+increased appetite,211
+infection,212
+infestation,213
+infestation nos,214
+inflammation,215
+influenza,216
+influenza like illness,217
+influenza-like symptoms,218
+injection site pain,219
+injection site reaction,220
+injury,221
+insomnia,222
+interstitial lung disease,223
+irritability,224
+jaundice,225
+jaundice cholestatic,226
+lacrimation increased,227
+laryngeal pain,228
+laryngitis,229
+laryngospasm,230
+lethargy,231
+leukocytosis,232
+leukopenia,233
+libido decreased,234
+lightheadedness,235
+liver function test abnormal,236
+liver injury,237
+loss of consciousness,238
+lymphadenopathy,239
+malaise,240
+malnutrition,241
+mediastinal disorder,242
+melaena,243
+memory impairment,244
+menopausal symptoms,245
+menorrhagia,246
+mental disability,247
+mental disorder,248
+metrorrhagia,249
+migraine,250
+mood swings,251
+mouth ulceration,252
+muscle spasms,253
+muscle twitching,254
+muscular weakness,255
+musculoskeletal discomfort,256
+musculoskeletal pain,257
+musculoskeletal stiffness,258
+myalgia,259
+mydriasis,260
+myocardial infarction,261
+myocardial ischaemia,262
+myopathy,263
+nasal congestion,264
+nasopharyngitis,265
+nausea,266
+neck pain,267
+necrosis,268
+neoplasm,269
+neoplasm malignant,270
+nephritis interstitial,271
+nephrolithiasis,272
+nervous system disorder,273
+nervousness,274
+neuralgia,275
+neuritis,276
+neuropathy,277
+neuropathy peripheral,278
+neutropenia,279
+nightmare,280
+nocturia,281
+numbness,282
+nystagmus,283
+oedema,284
+oedema peripheral,285
+oesophagitis,286
+oliguria,287
+oropharyngeal discomfort,288
+oropharyngeal pain,289
+orthostatic hypotension,290
+osteoarthritis,291
+otitis media,292
+pain,293
+pain in extremity,294
+pallor,295
+palpitations,296
+pancreatitis,297
+pancytopenia,298
+paraesthesia,299
+petechiae,300
+pharyngitis,301
+pharyngolaryngeal pain,302
+phlebitis,303
+phosphatase alkaline increased,304
+photophobia,305
+photosensitivity,306
+photosensitivity reaction,307
+pleural effusion,308
+pneumonia,309
+pollakiuria,310
+polyuria,311
+protein urine present,312
+proteinuria,313
+pruritus,314
+psychotic disorder,315
+pulmonary embolism,316
+pulmonary oedema,317
+purpura,318
+rash,319
+rash erythematous,320
+rash maculo-papular,321
+rash pustular,322
+rectal haemorrhage,323
+redness,324
+renal failure,325
+renal failure acute,326
+renal impairment,327
+respiratory failure,328
+rhabdomyolysis,329
+rhinitis,330
+rhinorrhoea,331
+rigors,332
+salivary hypersecretion,333
+scotoma,334
+sensory loss,335
+sepsis,336
+shock,337
+sinusitis,338
+skin discolouration,339
+skin disorder,340
+skin exfoliation,341
+skin ulcer,342
+sleep disorder,343
+somnolence,344
+speech disorder,345
+stevens-johnson syndrome,346
+stinging,347
+stomatitis,348
+stupor,349
+sweating,350
+sweating increased,351
+swelling,352
+syncope,353
+tachycardia,354
+tenderness,355
+tension,356
+thinking abnormal,357
+thirst,358
+throat sore,359
+thrombocytopenia,360
+thrombophlebitis,361
+thrombosis,362
+tingling sensation,363
+tinnitus,364
+tongue disorder,365
+toxic epidermal necrolysis,366
+transaminases increased,367
+tremor,368
+tubulointerstitial nephritis,369
+ulcer,370
+unspecified disorder of skin and subcutaneous tissue,371
+upper respiratory tract infection,372
+urethral disorder,373
+urinary incontinence,374
+urinary retention,375
+urinary tract disorder,376
+urinary tract infection,377
+urine output increased,378
+urticaria,379
+vaginal haemorrhage,380
+vaginal infection,381
+vaginal inflammation,382
+vascular purpura,383
+vasculitis,384
+vasodilation,385
+vasodilation procedure,386
+ventricular arrhythmia,387
+ventricular extrasystoles,388
+ventricular fibrillation,389
+ventricular tachycardia,390
+vertigo,391
+viral infection,392
+vision blurred,393
+visual disturbance,394
+visual impairment,395
+vomiting,396
+weight decreased,397
+weight increased,398
+wheezing,399

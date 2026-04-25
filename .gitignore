@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pycache
+*.pyc.*
+
+# Virtual environments
+.venv/
+.venv_local/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Large raw data files (keep processed data + models for deployment)
+data/raw/meddra_all_se.tsv.gz
+data/raw/drug_symptom_labels.csv
+
+# Outputs (generated artifacts, not needed for deployment)
+outputs/
+
+# Logs
+*.log
+logs/

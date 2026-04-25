@@ -1,0 +1,16 @@
+{
+  "aspirin": [
+    "Pain relief",
+    "Fever reduction",
+    "Blood clot prevention"
+  ],
+  "ibuprofen": [
+    "Pain relief",
+    "Fever reduction",
+    "Inflammation reduction"
+  ],
+  "metformin": [
+    "Blood sugar control",
+    "Type 2 diabetes management"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "decision_threshold": 0.35,
+  "drug_index_path": "C:\\Users\\venub\\OneDrive\\Desktop\\Drug_Side_Effects_Predictor\\data\\processed\\drug_index.csv",
+  "side_effect_index_path": "C:\\Users\\venub\\OneDrive\\Desktop\\Drug_Side_Effects_Predictor\\data\\processed\\side_effect_index.csv",
+  "action_index_path": "C:\\Users\\venub\\OneDrive\\Desktop\\Drug_Side_Effects_Predictor\\data\\processed\\action_index.csv",
+  "metrics": {
+    "side_effect_f1_micro": 0.40011791820764325,
+    "side_effect_f1_macro": 0.13031230967094828,
+    "action_accuracy": 0.925
+  }
+}
