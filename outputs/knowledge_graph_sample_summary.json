@@ -1,0 +1,187 @@
+{
+  "title": "Knowledge Graph Sample",
+  "description": "Representative high-connectivity drugs and a sample of their linked side effects, symptoms, and diseases.",
+  "sampled_drugs": [
+    {
+      "drug_idx": 1011,
+      "drug_name": "Pregabalin",
+      "sampled_side_effects": [
+        "Abdominal Distension",
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Distension",
+        "Abdominal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 98,
+      "drug_name": "Aripiprazole",
+      "sampled_side_effects": [
+        "Abdominal Distension",
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Distension",
+        "Abdominal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 269,
+      "drug_name": "Citalopram",
+      "sampled_side_effects": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain",
+        "Abscess"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_diseases": [
+        "Unknown_Disease"
+      ]
+    },
+    {
+      "drug_idx": 1096,
+      "drug_name": "Ropinirole",
+      "sampled_side_effects": [
+        "Abdominal Distension",
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Distension",
+        "Abdominal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 1087,
+      "drug_name": "Risperidone",
+      "sampled_side_effects": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain",
+        "Abscess"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 1002,
+      "drug_name": "Pramipexole",
+      "sampled_side_effects": [
+        "Abdominal Distension",
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Distension",
+        "Abdominal Neoplasm"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 935,
+      "drug_name": "Paroxetine",
+      "sampled_side_effects": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain",
+        "Abscess"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 1246,
+      "drug_name": "Tramadol",
+      "sampled_side_effects": [
+        "Abdominal Distension",
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Distension",
+        "Abdominal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 164,
+      "drug_name": "Bortezomib",
+      "sampled_side_effects": [
+        "Abdominal Distension",
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Distension",
+        "Abdominal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 1301,
+      "drug_name": "Venlafaxine",
+      "sampled_side_effects": [
+        "Abdominal Distension",
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Distension",
+        "Abdominal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 1165,
+      "drug_name": "Tacrolimus",
+      "sampled_side_effects": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain",
+        "Abscess"
+      ],
+      "sampled_symptoms": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain"
+      ],
+      "sampled_diseases": []
+    },
+    {
+      "drug_idx": 502,
+      "drug_name": "Fluoxetine",
+      "sampled_side_effects": [
+        "Abdominal Pain",
+        "Gastrointestinal Pain",
+        "Aggression"
+      ],
+      "sampled_symptoms": [
+        "Acute Abdomen",
+        "Abdominal Pain"
+      ],
+      "sampled_diseases": []
+    }
+  ],
+  "node_type_counts": {
+    "drug": 12,
+    "side_effect": 5,
+    "symptom": 5,
+    "disease": 1
+  },
+  "graph_stats": {
+    "num_nodes": 23,
+    "num_edges": 61,
+    "num_sampled_drugs": 12
+  }
+}

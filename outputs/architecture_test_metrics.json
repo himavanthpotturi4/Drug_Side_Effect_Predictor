@@ -1,0 +1,8 @@
+{
+  "action_accuracy": 0.19402985074626866,
+  "action_auc_ovr_macro": 0.5916434553636597,
+  "action_f1_macro": 0.13849356835864363,
+  "action_f1_weighted": 0.1790551681109272,
+  "side_effect_f1_micro": 0.4079057617428163,
+  "num_test_samples": 201
+}

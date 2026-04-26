@@ -1,0 +1,6 @@
+,Human Cell,Virus,Bacteria,Fungus,Other
+Human Cell,34,17,11,10,0
+Virus,2,1,1,0,0
+Bacteria,1,3,2,1,0
+Fungus,3,1,0,2,0
+Other,29,30,31,22,0
